@@ -1,12 +1,5 @@
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-![Image of Godotocat](https://octodex.github.com/images/godotocat.png)
-
-
-``` javascript
-var myVar = "Hello, My worlds of ENVY!";
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Shake the left hand when getting the badge
+- [ ] Keas alert
