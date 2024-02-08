@@ -1,0 +1,7 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Shake the left hand when getting the badge
+- [ ] Keas alert
+- [ ] Lower the flag
+- [ ] Ring the bell 8 times (end of watch)
