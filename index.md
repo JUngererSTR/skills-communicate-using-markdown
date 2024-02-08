@@ -1,11 +1,5 @@
-# <h1> This is header1
+# This is an `<h1>` header, which is the largest
 
-# <h2> This is header2
+## This is an `<h2>` header
 
-# <h3> This is header3
-
-# <h4> This is header4
-
-# <h5> This is header5
-
-# <h6> This is header6
+###### This is an `<h6>` header, which is the smallest
