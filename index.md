@@ -9,6 +9,3 @@
 # <h5> This is header5
 
 # <h6> This is header6
-
- Type a short, meaningful commit message that describes the change you made to the file. Created them headers*6
- 
